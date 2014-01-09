@@ -1,6 +1,6 @@
 [Envjs](http://www.envjs.com)
 ====
-[![Build Status](https://api.travis-ci.org/bednar/envjs.png?branch=master)](https://travis-ci.org/bednar/envjs)
+[![Build Status](https://api.travis-ci.org/bednar/Envjs.png?branch=master)](https://travis-ci.org/bednar/Envjs)
 
 ### Supported Versions
 
