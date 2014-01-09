@@ -20,10 +20,12 @@
 ### Reference in HTML
 
     <script src="lib/env.rhino.js" type="text/javascript"></script>
+    <script src="lib/trimLeft.js" type="text/javascript"></script>
 
 ### Java
 
     this.getClass().getResourceAsStream("/lib/env.rhino.js")
+    this.getClass().getResourceAsStream("/lib/trimLeft.js")
 
 ### Repository
 
